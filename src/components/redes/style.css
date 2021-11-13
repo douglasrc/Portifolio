@@ -1,0 +1,12 @@
+.contatos-icons {
+  display: flex;
+  font-size: 3rem;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.contatos-icons a {
+  text-decoration: none;
+  color: #000000;
+}
